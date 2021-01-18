@@ -1,5 +1,5 @@
 # DIS18-ORKG-Microbiolgy-Observatory
-##Arbeitspakete
+###Arbeitspakete
 - [ ] Heraussuchen von Bakterien (Datenbank oder Webiste) -> 3 Tage
 - [ ] Crawler erstellen -> 4 Tage
 - [ ] Debugging -> 3 Tage
