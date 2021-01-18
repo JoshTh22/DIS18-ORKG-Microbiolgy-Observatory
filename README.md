@@ -20,3 +20,8 @@
 
 ### Team-Organisation
 - Kommunikation über Discord/Whatsapp
+
+
+Zielsetzung für das Projekt “ORKG - Mikrobiologisches Observatorium”
+
+Unser Ziel ist es Mikrobiologische Daten aus Übersichtsartikeln zu extrahieren und darzustellen. Mithilfe eines Crawlers möchten wir Daten über verschiedene Bakterien (Art, Stamm, Familie, Gattung, Ordnung) von einer Datenbank oder einer Webseite analysieren. Mit PubMed möchten wir via API auf die Daten zugreifen und in einem optimalen Speicherformat (z. B. CSV) die Ergebnisse speichern. PubMed ist eine englisch sprachige Meta-Datenbank mit medizinischen Artikeln, der auf den gesamten Bereich der Biomedizin bezogen ist. Nachdem die Daten analysiert und bereinigt wurde, integrieren wir mithilfe von der Python Bibliothek „Pandas“ den Wissens Graphen. Eine Software soll uns dabei helfen, die Daten zu indexieren, so das dem Endbenutzer eine effektive Abfrage des Graphen ermöglicht werden kann und zieht Schlüsse aus den vorhandenen Informationen. Der Wissensgraph speichert die Daten einer Domäne als Entität und Beziehungen unter Verwendung eines Graphen Modelles, das sich an eine Ontologie hält. Die Knoten des Netzwerkes stellen die Entität dar und die Kanten oder Verbindungen zwischen den Knoten stellen die Beziehungen zwischen den Knoten dar. 
