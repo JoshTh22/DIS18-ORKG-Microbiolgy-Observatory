@@ -17,3 +17,6 @@
 -	Github für git repo
 -	Google Colab (Falls Rechenleistung von eigenen Computern nicht ausreicht)
 -	PowerBI/Tableau zur Visualisierung der Ergebnisse
+
+### Team-Organisation
+- Kommunikation über Discord/Whatsapp
