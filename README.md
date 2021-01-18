@@ -11,3 +11,9 @@
 - [ ] Indexierung aller Ergebnisse -> 1 Tag
 
 
+### Ressourcen/Tools/etc.
+
+-	VS Code für Python Entwicklung
+-	Github für git repo
+-	Google Colab (Falls Rechenleistung von eigenen Computern nicht ausreicht)
+-	PowerBI/Tableau zur Visualisierung der Ergebnisse
