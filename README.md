@@ -18,6 +18,8 @@
 -	Google Colab (Falls Rechenleistung von eigenen Computern nicht ausreicht)
 -	PowerBI/Tableau zur Visualisierung der Ergebnisse
 - https://meshb.nlm.nih.gov/record/ui?ui=D001419
+- https://www.msdmanuals.com/de-de/heim/infektionen/bakterielle-infektionen-%C3%BCbersicht/%C3%BCbersicht-%C3%BCber-bakterien
+- https://flexikon.doccheck.com/de/Klinisch_relevante_Bakterien
 ### Team-Organisation
 - Kommunikation über Discord/Whatsapp
 
