@@ -1,6 +1,6 @@
 # DIS18-ORKG-Microbiolgy-Observatory
 ### Arbeitspakete
-- [ .x ] Heraussuchen von Bakterien (Datenbank oder Webiste) -> 3 Tage
+- [x] Heraussuchen von Bakterien (Datenbank oder Webiste) -> 3 Tage
 - [ ] Crawler erstellen -> 4 Tage
 - [ ] Debugging -> 3 Tage
 - [ ] Optimales Speicherformat für Ergebnisse des API runs finden finden -> 0,5 Tage
