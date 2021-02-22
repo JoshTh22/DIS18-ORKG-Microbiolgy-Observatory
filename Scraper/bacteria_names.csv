@@ -3,10 +3,7 @@ Acetobacter aurantius
 Acinetobacter spp.
 Acinetobacter baumannii
 Acinetobacter lwoffii
-Acinetobacter baumannii
-Acinetobacter lwoffii
 Actinomyces
-Actinomyces israelii
 Actinomyces israelii
 Agrobacterium radiobacter
 Agrobacterium tumefaciens
@@ -14,17 +11,7 @@ Azorhizobium caulinodans
 Azotobacter vinelandii
 Anaplasma
 Anaplasma phagocytophilum
-Anaplasma phagocytophilum
 Bacillus
-Bacillus anthracis
-Bacillus brevis
-Bacillus cereus
-Bacillus fusiformis
-Bacillus licheniformis
-Bacillus megaterium
-Bacillus mycoides
-Bacillus stearothermophilus
-Bacillus subtilis
 Bacillus anthracis
 Bacillus brevis
 Bacillus cereus
@@ -37,16 +24,10 @@ Bacillus subtilis
 Bacteroides
 Bacteroides fragilis
 Bacteroides melaninogenicus
-Bacteroides fragilis
-Bacteroides melaninogenicus
 Bartonella
 Bartonella henselae
 Bartonella quintana
-Bartonella henselae
-Bartonella quintana
 Bordetella
-Bordetella bronchiseptica
-Bordetella pertussis
 Bordetella bronchiseptica
 Bordetella pertussis
 Borrelia burgdorferi
@@ -55,14 +36,7 @@ Brucella abortus
 Brucella melitensis
 Brucella ovis
 Brucella suis
-Brucella abortus
-Brucella melitensis
-Brucella ovis
-Brucella suis
 Burkholderia
-Burkholderia mallei
-Burkholderia pseudomallei
-Burkholderia cepacia (MDR)
 Burkholderia mallei
 Burkholderia pseudomallei
 Burkholderia cepacia (MDR)
@@ -71,17 +45,9 @@ Campylobacter coli
 Campylobacter fetus
 Campylobacter jejuni
 Campylobacter pylori
-Campylobacter coli
-Campylobacter fetus
-Campylobacter jejuni
-Campylobacter pylori
 Chlamydia
 Chlamydia trachomatis
-Chlamydia trachomatis
 Chlamydophila
-Chlamydophila pneumoniae (Chlamydia pneumoniae)
-Chlamydophila psittaci (Chlamydia psittaci)
-Chlamydophila trachomatis
 Chlamydophila pneumoniae (Chlamydia pneumoniae)
 Chlamydophila psittaci (Chlamydia psittaci)
 Chlamydophila trachomatis
@@ -91,15 +57,7 @@ Clostridium botulinum
 Clostridium difficile
 Clostridium perfringens (Clostridium welchii)
 Clostridium tetani
-Clostridium botulinum
-Clostridium difficile
-Clostridium perfringens (Clostridium welchii)
-Clostridium tetani
 Corynebacterium
-Corynebacterium diphtheriae
-Corynebacterium fusiforme
-Corynebacterium pseudotubercolosis
-Corynebacterium ulcerans
 Corynebacterium diphtheriae
 Corynebacterium fusiforme
 Corynebacterium pseudotubercolosis
@@ -109,16 +67,7 @@ Ehrlichia chaffeensis
 Enterobacter
 Enterobacter aerogenes
 Enterobacter cloacae (ESBL)
-Enterobacter aerogenes
-Enterobacter cloacae (ESBL)
 Enterococcus
-Enterococcus avium
-Enterococcus durans
-Enterococcus faecalis (VRE)
-Enterococcus faecium (VRE)
-Enterococcus galllinarum
-Enterococcus hirae
-Enterococcus maloratus
 Enterococcus avium
 Enterococcus durans
 Enterococcus faecalis (VRE)
@@ -136,24 +85,12 @@ Haemophilus influenzae
 Haemophilus parainfluenzae
 Haemophilus pertussis
 Haemophilus vaginalis
-Haemophilus ducreyi
-Haemophilus influenzae
-Haemophilus parainfluenzae
-Haemophilus pertussis
-Haemophilus vaginalis
 Helicobacter pylori
 Klebsiella
 Klebsiella granulomatis
 Klebsiella oxytoca (ESBL)
 "Klebsiella pneumoniae (MDR, ESBL)"
-Klebsiella granulomatis
-Klebsiella oxytoca (ESBL)
-"Klebsiella pneumoniae (MDR, ESBL)"
 Lactobacillus
-Lactobacillus acidophilus
-Lactobacillus bulgaricus
-Lactobacillus casei
-Lactococcus lactis
 Lactobacillus acidophilus
 Lactobacillus bulgaricus
 Lactobacillus casei
@@ -163,7 +100,6 @@ Legionella pneumophila
 Leptospira interrogans
 Leuconostoc pseudomesenteroides
  Listerien
-Listeria monocytogenes
 Listeria monocytogenes
 Methanobacterium extroquens
 Microbacterium multiforme
@@ -180,21 +116,7 @@ Mycobacterium lepraemurium
 Mycobacterium phlei
 Mycobacterium smegmatis
 Mycobacterium tuberculosis (MDR)
-Mycobacterium avium
-Mycobacterium bovis
-Mycobacterium diphtheriae
-Mycobacterium intracellulare
-Mycobacterium leprae
-Mycobacterium lepraemurium
-Mycobacterium phlei
-Mycobacterium smegmatis
-Mycobacterium tuberculosis (MDR)
 Mycoplasma
-Mycoplasma fermentans
-Mycoplasma genitalium
-Mycoplasma hominis
-Mycoplasma penetrans
-Mycoplasma pneumoniae
 Mycoplasma fermentans
 Mycoplasma genitalium
 Mycoplasma hominis
@@ -203,12 +125,8 @@ Mycoplasma pneumoniae
  Neisseria
  Neisseria gonorrhoeae
  Neisseria meningitidis
- Neisseria gonorrhoeae
- Neisseria meningitidis
 Orientia tsutsugamushi
 Pasteurella
-Pasteurella multocida
-Pasteurella tularensis
 Pasteurella multocida
 Pasteurella tularensis
 Peptostreptococcus
@@ -218,16 +136,9 @@ Proteus vulgaris
 Providencia stuartii
 Pseudomonas
 Pseudomonas aeruginosa
-Pseudomonas aeruginosa
 Ralstonia
 Rhizobium radiobacter
 Rickettsia
-Rickettsia prowazekii
-Rickettsia psittaci
-Rickettsia quintana
-Rickettsia rickettsii
-Rickettsia trachomae
-Rickettsia typhi
 Rickettsia prowazekii
 Rickettsia psittaci
 Rickettsia quintana
@@ -240,21 +151,9 @@ Salmonella Paratyphi
 Salmonella Typhi
 Salmonella Typhimurium
 Serratia marcescens
-Salmonella Enteritidis
-Salmonella Paratyphi
-Salmonella Typhi
-Salmonella Typhimurium
-Serratia marcescens
 Shigella dysenteriae
 Shigella sonnei
 Staphylococcus
-"Staphylococcus aureus (MRSA, VRSA)  "
-Staphylococcus capitis
-Staphylococcus epidermidis
-Staphylococcus haemolyticus 
-Staphylococcus hominis 
-Staphylococcus lugdunensis
-Staphylococcus saprophyticus 
 "Staphylococcus aureus (MRSA, VRSA)  "
 Staphylococcus capitis
 Staphylococcus epidermidis
@@ -283,28 +182,7 @@ Streptococcus rattus
 Streptococcus salivarius
 Streptococcus sanguis
 Streptococcus sobrinus
-Streptococcus agalactiae
-Streptococcus avium
-Streptococcus bovis
-Streptococcus cricetus
-Streptococcus faceium
-Streptococcus faecalis
-Streptococcus ferus
-Streptococcus gallinarum
-Streptococcus lactis
-Streptococcus mitior
-Streptococcus mitis
-Streptococcus mutans
-Streptococcus oralis
-Streptococcus pneumoniae (PRSP)
-Streptococcus pyogenes
-Streptococcus rattus
-Streptococcus salivarius
-Streptococcus sanguis
-Streptococcus sobrinus
 Treponema
-Treponema pallidum
-Treponema denticola
 Treponema pallidum
 Treponema denticola
 Vibrio
@@ -312,15 +190,8 @@ Vibrio cholerae
 Vibrio comma
 Vibrio parahaemolyticus
 Vibrio vulnificus
-Vibrio cholerae
-Vibrio comma
-Vibrio parahaemolyticus
-Vibrio vulnificus
 Wolbachia
 Yersinia
-Yersinia enterocolitica
-Yersinia pestis
-Yersinia pseudotuberculosis
 Yersinia enterocolitica
 Yersinia pestis
 Yersinia pseudotuberculosis

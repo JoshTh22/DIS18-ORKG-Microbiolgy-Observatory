@@ -36,13 +36,11 @@ for i in flat_list:
     
 print(flat_list2)
 
-"""for i in liste:
-    re.sub(r"([A-Z])", r" \1", i).split()
-    print(liste)"""
 
 df = pd.DataFrame(flat_list2, columns = ['bacteria'])
 
-df.to_csv('bacteria_names.csv', index = False)
+
+df.drop_duplicates().to_csv('bacteria_names.csv', index = False)
 
 #print(liste)
 #with open('bacteria_names.csv', 'w') as file:
