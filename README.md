@@ -32,3 +32,4 @@ Besprechung, 23.03.2021 - Next Steps:
 - Scraper erweitern (Joshua)
 - Matchen der Querys (Kai) 
 - Einbettung in ORKG? - Recherche (Melli) 
+- Data Cleaning?
