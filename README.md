@@ -32,7 +32,7 @@ Besprechung, 15.04.2021 - Next Steps:
 ### Data Cleaning (Flo)
 - needs_cleaning.csv: 
 - Affiliates entfernen
-- Autors: Klammern Vor- und Nachname
+- Authors: Klammern Vor- und Nachname
 - Keywords: leere rausschmeißen und sonst Klammern entfernen, mesh terms abgleichen 
 - Title abgleichen  
 
