@@ -40,9 +40,9 @@ Besprechung, 15.04.2021 - Next Steps:
 https://www.ncbi.nlm.nih.gov/books/NBK3837/
 
 ### Next Steps (Stand 29.04.2021)
--Via Entrez MeSH-Terms aus der NCBI Mesh-Datenbank ziehen
--MeSH-terms and den Dataframe dranhängen
--ORCID der Autoren ziehen
+- Via Entrez MeSH-Terms aus der NCBI Mesh-Datenbank ziehen
+- MeSH-terms and den Dataframe dranhängen
+- ORCID der Autoren ziehen
 
 ### Nützliche Links für das bearbeiten der csv
 
