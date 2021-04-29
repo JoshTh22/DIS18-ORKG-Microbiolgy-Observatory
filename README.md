@@ -38,3 +38,9 @@ Besprechung, 15.04.2021 - Next Steps:
 
 ### Entrez testen (Kai) 
 https://www.ncbi.nlm.nih.gov/books/NBK3837/
+
+
+### Nützliche Links für das bearbeiten der csv
+
+- Bedeutungen der Spaltennamen: https://www.nlm.nih.gov/bsd/mms/medlineelements.html
+- Dokumentation für Entrez: https://biopython-tutorial.readthedocs.io/en/latest/notebooks/09%20-%20Accessing%20NCBIs%20Entrez%20databases.html
