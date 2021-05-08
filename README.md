@@ -48,3 +48,14 @@ https://www.ncbi.nlm.nih.gov/books/NBK3837/
 
 - Bedeutungen der Spaltennamen: https://www.nlm.nih.gov/bsd/mms/medlineelements.html
 - Dokumentation für Entrez: https://biopython-tutorial.readthedocs.io/en/latest/notebooks/09%20-%20Accessing%20NCBIs%20Entrez%20databases.html
+
+### Fragen für das Expertengespräch:
+
+- Sind Listen in der CSV Datei in Ordnung? 
+- Pflichtfelder? 
+- Empfehlungen: andere Seiten, Dokumentationen etc.?
+- Gibt es ein Sandbox System? 
+- Mesh Terms: Header, Unterkategoerien etc.?
+- Wie können wir damit umgehen, falls schon z.B. Identifier im ORKG drin sind? (Doppelungen)
+- Festgelegte Identifier im ORKG? R - Codes: Werden die von ORKG automatisch festgelegt? 
+- Research field? 
