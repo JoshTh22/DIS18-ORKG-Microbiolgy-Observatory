@@ -54,8 +54,38 @@ https://www.ncbi.nlm.nih.gov/books/NBK3837/
 - Sind Listen in der CSV Datei in Ordnung? 
 - Pflichtfelder? 
 - Empfehlungen: andere Seiten, Dokumentationen etc.?
+  - nope 
 - Gibt es ein Sandbox System? 
-- Mesh Terms: Header, Unterkategoerien etc.?
+  - Es gibt eins, nur nicht öffentlich (ausstehend) 
+- Mesh Terms/Ontologien: Header, Unterkategoerien etc.?
+  - Ontologien = Klassifikationen
 - Wie können wir damit umgehen, falls schon z.B. Identifier im ORKG drin sind? (Doppelungen)
 - Festgelegte Identifier im ORKG? R - Codes: Werden die von ORKG automatisch festgelegt? 
+  - werden automatisch vergeben (Ressource), wird genutzt um Sachen wieder zu finden
 - Research field? 
+  - muss von uns erstellt werden
+  - im ORKG anschauen (ausstehend) 
+
+### Expertengespräch 20.05.2021
+- Abstract: Welche Sachen können wir rausnehmen? (Text wird nicht mitreingenommen) 
+- ORKG: 
+  - Texte müssen vorab interpretiert werden 
+  - Mesh Terms werden bisher noch nicht genutzt
+  - "Es geht um das Thema ..." "bzgl. Paper" 
+  - Abstract wird nicht retrieved
+  - Überlegen: "Wie können wir von den Keywords zu den Ontologien gelangen?" 
+  - scispacy (TOI überprüfen)
+  - Jeder Begriff ein identifier? 
+  - Klassen können manuel im ORKG angelegt werden 
+  - "Welche Art von Informationen wollen wir in das ORKG bringen?" 
+  - Terms von Krankheitsbildern matchen 
+  - Daten müssen interpretierbar sein 
+- Dokumentation von Beispielen, Use cases etc. 
+- z.B. Frage: "Welches Medikament hat Wirkung auf bestimmte Proteine?"
+  - Fragestellung finden
+- ein hochgeladener Datensatz kann erweitert werden
+- Beispiel Bakterien: Was lösen sie aus?, Verbindungen von Bakterien
+  - Orte raussuchen in Verbindung zu Bakterien und das auf die Paper beziehen 
+  - Antibotika resistenten 
+  - https://coxbase.q-gaps.de/webapp/coxviewer (Isolat Beschreibungen) 
+- verschiedene Use cases ausprobieren 
