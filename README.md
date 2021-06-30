@@ -89,3 +89,19 @@ https://www.ncbi.nlm.nih.gov/books/NBK3837/
   - Antibotika resistenten 
   - https://coxbase.q-gaps.de/webapp/coxviewer (Isolat Beschreibungen) 
 - verschiedene Use cases ausprobieren 
+
+
+
+Agenda für die Doku:
+  - Fragestellung
+  - Zielbeschreibung
+  - ORKG kurz erklären
+  - Flussdiagramm
+  - Erklärung der API funktion mit Screenshots
+  - Erklärung zur Erstellung der Tabelle
+  - Erklärung zur Erstellung der MeSH-Terme
+  - Erklärung fertige Tabelle
+  - Beschreibung des richtigen Datenformats
+  - ORKG API Beschreiben
+  - Zukünftige Baustellen auch für andere
+  - Offene Quellen Lizenz
